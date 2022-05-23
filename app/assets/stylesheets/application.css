@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ .link {
+  text-decoration: none;
+}
+
+.bkg-yellow {
+  width: 600px;
+  background-color: #FEFFE1;
+}
